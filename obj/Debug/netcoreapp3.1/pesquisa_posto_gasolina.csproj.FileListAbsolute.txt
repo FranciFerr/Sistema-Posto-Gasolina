@@ -1,0 +1,13 @@
+C:\Users\Windows\Desktop\curso C#\pesquisa_posto_gasolina\pesquisa_posto_gasolina\bin\Debug\netcoreapp3.1\pesquisa_posto_gasolina.exe
+C:\Users\Windows\Desktop\curso C#\pesquisa_posto_gasolina\pesquisa_posto_gasolina\bin\Debug\netcoreapp3.1\pesquisa_posto_gasolina.deps.json
+C:\Users\Windows\Desktop\curso C#\pesquisa_posto_gasolina\pesquisa_posto_gasolina\bin\Debug\netcoreapp3.1\pesquisa_posto_gasolina.runtimeconfig.json
+C:\Users\Windows\Desktop\curso C#\pesquisa_posto_gasolina\pesquisa_posto_gasolina\bin\Debug\netcoreapp3.1\pesquisa_posto_gasolina.runtimeconfig.dev.json
+C:\Users\Windows\Desktop\curso C#\pesquisa_posto_gasolina\pesquisa_posto_gasolina\bin\Debug\netcoreapp3.1\pesquisa_posto_gasolina.dll
+C:\Users\Windows\Desktop\curso C#\pesquisa_posto_gasolina\pesquisa_posto_gasolina\bin\Debug\netcoreapp3.1\pesquisa_posto_gasolina.pdb
+C:\Users\Windows\Desktop\curso C#\pesquisa_posto_gasolina\pesquisa_posto_gasolina\obj\Debug\netcoreapp3.1\pesquisa_posto_gasolina.csprojAssemblyReference.cache
+C:\Users\Windows\Desktop\curso C#\pesquisa_posto_gasolina\pesquisa_posto_gasolina\obj\Debug\netcoreapp3.1\pesquisa_posto_gasolina.AssemblyInfoInputs.cache
+C:\Users\Windows\Desktop\curso C#\pesquisa_posto_gasolina\pesquisa_posto_gasolina\obj\Debug\netcoreapp3.1\pesquisa_posto_gasolina.AssemblyInfo.cs
+C:\Users\Windows\Desktop\curso C#\pesquisa_posto_gasolina\pesquisa_posto_gasolina\obj\Debug\netcoreapp3.1\pesquisa_posto_gasolina.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\curso C#\pesquisa_posto_gasolina\pesquisa_posto_gasolina\obj\Debug\netcoreapp3.1\pesquisa_posto_gasolina.dll
+C:\Users\Windows\Desktop\curso C#\pesquisa_posto_gasolina\pesquisa_posto_gasolina\obj\Debug\netcoreapp3.1\pesquisa_posto_gasolina.pdb
+C:\Users\Windows\Desktop\curso C#\pesquisa_posto_gasolina\pesquisa_posto_gasolina\obj\Debug\netcoreapp3.1\pesquisa_posto_gasolina.genruntimeconfig.cache
